@@ -1,0 +1,11 @@
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\bin\Debug\DatabaseFramework.exe.config
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\obj\Debug\DatabaseFramework.csprojResolveAssemblyReference.cache
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\obj\Debug\DatabaseFramework.Form1.resources
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\obj\Debug\DatabaseFramework.Properties.Resources.resources
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\obj\Debug\DatabaseFramework.csproj.GenerateResource.Cache
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\bin\Debug\DatabaseFramework.exe
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\bin\Debug\DatabaseFramework.pdb
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\bin\Debug\DbAccessFramework.dll
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\bin\Debug\DbAccessFramework.pdb
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\obj\Debug\DatabaseFramework.exe
+D:\个人学习用的资料\DatabaseFramework\DatabaseFramework\obj\Debug\DatabaseFramework.pdb
